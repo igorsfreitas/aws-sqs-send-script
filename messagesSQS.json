@@ -1,0 +1,4 @@
+[
+	{"Id": "msg1","MessageBody":"{\"s3\":{\"bucket\":{\"name\":\"teste-prod\"},\"object\":{\"key\":\"65955213e2126fadc9645cde/xpto/1/original.pptx\"}}}"},
+	{"Id": "msg1576","MessageBody":"{\"s3\":{\"bucket\":{\"name\":\"teste-prod\"},\"object\":{\"key\":\"66b4cc99f58f12f8d623e54b/xpto/1/original.pptx\"}}}"}
+]
